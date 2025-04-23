@@ -1,10 +1,9 @@
 # Text Classification with LLMs: A Hands-on Workshop
 **Duration**: 1-1.5 hours
 **Target audience**: Faculty members interested in applying text classification to their research or learning more about the possibilities of Large Language Models (LLMs) in this area.
-**Prerequisites**: Participants should bring their own text data samples.
 
 ## Workshop overview
-This interactive workshop combines theoretical foundations with practical applications of Large Language Models (LLMs) for text classification tasks in social sciences. It also offers the possibilities to start working with your own data. Participants will learn how to prepare their data, set up a classification pipeline, and troubleshoot common issues. The workshop will also cover advanced topics such as improving classification accuracy and ethical considerations.
+This interactive workshop combines theoretical foundations with practical applications of Large Language Models (LLMs) for text classification tasks in social sciences. It also offers the possibilities to start working with your own data. You will learn how to pre-process data, set up a classification pipeline, and troubleshoot common issues. The workshop will also cover a limited amount of advanced topics such as improving classification accuracy and ethical considerations.
 
 ## Schedule and estimated time estimation
 
