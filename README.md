@@ -73,7 +73,7 @@ Replace the sample data with your text and labels, and modify the prompts accord
 For questions or inquiries:
 
 **Lauren Leek**  
-📧 [lauren.leek@eui.eu](mailto:l.c.leek@lse.ac.uk)  
+📧 [laurencaroline.leek@eui.eu](mailto:laurencaroline.leek@eui.eu)  
 🌐 [laurenleek.eu](https://laurenleek.eu)
 
 ---
